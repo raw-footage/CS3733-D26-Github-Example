@@ -9,3 +9,6 @@ table, td, th, td {
 thead {
     color: red;
 }
+ul {
+    list-style-type: disc;
+}
